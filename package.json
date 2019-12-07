@@ -1,0 +1,19 @@
+{
+  "name": "Handler-Discord",
+  "version": "2.0.3",
+  "description": "Um simples bot com sistema de handler escrito em Javascript. By: Mendreik#3866",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "author": "The Idiot's Guide Community",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.3"
+  }
+}
