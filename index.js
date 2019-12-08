@@ -1,7 +1,7 @@
 /*
  *         DISCORD BOT
  *    UM SIMPLES BOT ESCRITO EM JS
- *               BY: Mendreik#3866
+ *               
  */
 
 // PARA CONECTAR AS BIBLIOTECAS
