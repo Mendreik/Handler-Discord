@@ -1,3 +1,10 @@
+ 
+/*
+ *         DISCORD BOT
+ *    UM SIMPLES BOT ESCRITO EM JS
+ *               
+ */
+
 module.exports.run = async (client, message, args) => {
   if (message.member.hasPermission("MANAGE_MESSAGES")) {
     let messagecount = parseInt(args[0]);
